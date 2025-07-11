@@ -41,7 +41,7 @@ ENG/АНГ
 Testmarket is a web application for publishing and managing product ads. 
 The service provides the following features:
 - Placement of ads with the name, description, price and image  
-- The ability to enable/disable the "Bidding" function for each ad  
+- The ability to enable/disable the "Торг" function for each ad  
 - View a list of all ads with keyword search  
 - Detailed ad page with full information  
 - Seller rating based on the number of ads placed  
@@ -53,7 +53,7 @@ Implemented functions
 - Search for ads by title  
 - Automatic determination of the date of creation and updating of ads  
 - Administrative interface with advanced features:
-- Group activation/deactivation of the "Bargaining" function  
+- Group activation/deactivation of the "Торг" function  
   - Filtering by date and auction status  
   - Visual display of images in the form of thumbnails  
   - Highlighting of recent ads  
